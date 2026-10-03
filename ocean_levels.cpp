@@ -22,9 +22,3 @@ int main()
 
     return 0;
 }
-
-Expected output:
-
-Ocean level after 5 years: 7.5 mm
-Ocean level after 7 years: 10.5 mm
-Ocean level after 10 years: 15 mm
