@@ -72,6 +72,6 @@ Test Results
 | Program and test | Values used | Expected results | Actual results | Match or correction |
 |---|---|---|---|---|
 | Average — assigned values | 28, 32, 37, 24, 33 | Sum: 154; Average: 30.8 |Sum = 154; Average = 30.8 |match|
-| Average — changed values | Your five test values | Your calculations | Sum = 61; Average = 12.2 |match|
-| Ocean — assigned rate | 1.5 mm/year | 5 years: 7.5 mm; 7 years: 10.5 mm; 10 years: 15 mm | Fill in after running | Fill in after checking |
-| Ocean — changed rate | Your test rate | Your calculations | Fill in after running | Fill in after checking |
+| Average — changed values |10, 11, 12, 13, 15 |Sum = 61; Average = 12.2| Sum = 61; Average = 12.2 |match|
+| Ocean — assigned rate | 1.5 mm/year | 5 years: 7.5 mm; 7 years: 10.5 mm; 10 years: 15 mm |5 years: 7.5 mm; 7 years: 10.5 mm; 10 years: 15 mm | match|
+| Ocean — changed rate |2.25|5 years = 11.25 mm; 7 years = 15.75 mm; 10 years = 22.5 mm|5 years = 11.25 mm; 7 years = 15.75 mm; 10 years = 22.5 mm|match|
